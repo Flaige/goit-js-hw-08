@@ -1,2 +1,0 @@
-Praca z JSON w JavaScript obejmuje zrozumienie struktury JSON, skuteczne parsowanie go na obiekty JavaScript oraz obsługę potencjalnych błędów, aby zapewnić stabilne działanie kodu. 
-Zadania te pokazały kluczowe aspekty manipulacji JSON oraz obsługi błędów, dostarczając solidnych podstaw do dalszej eksploracji JSON w kontekście programowania webowego.
