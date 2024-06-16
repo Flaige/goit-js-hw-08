@@ -1,0 +1,14 @@
+{
+    "name": "Mango",
+    "age": 3,
+    "isHappy": true
+}
+
+"name": "Mango" - wartość "Mango" jest typu String.
+"age": 3 - wartość 3 jest typu Number.
+"isHappy": true - wartość true jest typu Boolean.
+
+Odnosząc się do przykładowego pliku:
+Obiekt JSON zaczyna się i kończy nawiasem klamrowym {}.
+Wewnątrz znajdują się pary klucz-wartość oddzielone przecinkami.
+Każdy klucz jest ciągiem znaków (np. "name", "age", "isHappy")
